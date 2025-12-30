@@ -1,0 +1,229 @@
+# Rechindia.in
+!-- Google Search Engine Optimization (SEO) -->  
+<title>RechIndia | Satyam Sir Digital University | Stocks, Web & AI</title>  
+<meta name="description" content="RechIndia par UPSC, Stocks, Web Dev aur Freelancing seekhein. Powered by Google Gemini. India's Most Trusted Earning Platform.">  
+<meta name="author" content="Satyam Sir">  
+<meta name="robots" content="index, follow">  
+  
+<!-- Standard Assets -->  
+<script src="https://cdn.tailwindcss.com"></script>  
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">  
+  
+<style>  
+    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap');  
+    :root { --brand: #6366f1; --gemini: #4285f4; }  
+    body { font-family: 'Plus Jakarta Sans', sans-serif; background: #010409; color: #fff; scroll-behavior: smooth; overflow-x: hidden; }  
+      
+    .glass-nav { background: rgba(1, 4, 9, 0.85); backdrop-filter: blur(20px); border-bottom: 1px solid rgba(255,255,255,0.05); }  
+    .hero-gradient { background: radial-gradient(circle at 50% 50%, rgba(99, 102, 241, 0.15) 0%, transparent 60%); }  
+      
+    .course-card {   
+        background: linear-gradient(145deg, rgba(255,255,255,0.03) 0%, rgba(255,255,255,0.01) 100%);  
+        border: 1px solid rgba(255,255,255,0.08);  
+        border-radius: 2.5rem;  
+        transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);  
+    }  
+    .course-card:hover { transform: translateY(-10px); border-color: var(--brand); box-shadow: 0 20px 40px rgba(99, 102, 241, 0.1); }  
+
+    .logo-box { background: linear-gradient(135deg, #6366f1 0%, #a855f7 100%); box-shadow: 0 0 25px rgba(99, 102, 241, 0.4); }  
+
+    .gemini-badge {  
+        background: linear-gradient(90deg, #4285f4, #34a853, #fbbc05, #ea4335);  
+        -webkit-background-clip: text;  
+        -webkit-text-fill-color: transparent;  
+        font-weight: 800;  
+    }  
+
+    .skill-node {  
+        background: rgba(255, 255, 255, 0.02);  
+        border-left: 3px solid var(--brand);  
+        padding: 16px 20px;  
+        border-radius: 0 20px 20px 0;  
+        transition: 0.3s;  
+    }  
+    .skill-node:hover { background: rgba(255, 255, 255, 0.05); transform: translateX(10px); }  
+
+    .ai-glow { animation: pulse-gemini 2s infinite; }  
+    @keyframes pulse-gemini {  
+        0% { box-shadow: 0 0 0 0 rgba(66, 133, 244, 0.4); }  
+        70% { box-shadow: 0 0 0 15px rgba(66, 133, 244, 0); }  
+        100% { box-shadow: 0 0 0 0 rgba(66, 133, 244, 0); }  
+    }  
+
+    .bank-card { background: linear-gradient(135deg, #0f172a 0%, #020617 100%); border: 1px solid rgba(99, 102, 241, 0.2); border-radius: 3rem; }  
+</style>
+
+</head>  
+<body>  <!-- Header -->  
+<nav class="fixed top-0 w-full z-[100] glass-nav px-6 py-4">  
+    <div class="max-w-7xl mx-auto flex justify-between items-center">  
+        <div class="flex items-center gap-3">  
+            <div class="logo-box w-10 h-10 rounded-xl flex items-center justify-center">  
+                <i class="fas fa-bolt text-white text-lg"></i>  
+            </div>  
+            <div>  
+                <h1 class="text-xl font-black italic tracking-tighter leading-none">RECH<span class="text-indigo-500">INDIA</span></h1>  
+                <div class="flex items-center gap-1">  
+                    <span class="text-[6px] font-black text-slate-500 uppercase tracking-widest text-glow">Google Partner Tech</span>  
+                </div>  
+            </div>  
+        </div>  
+        <div class="hidden lg:flex gap-8 text-[10px] font-black uppercase tracking-widest text-slate-400">  
+            <a href="#packages" class="hover:text-white">Courses</a>  
+            <a href="#skills" class="hover:text-white text-indigo-400">Advanced Skills</a>  
+            <a href="#payment" class="text-indigo-400">Payment Hub</a>  
+        </div>  
+        <button class="bg-white text-black px-6 py-2 rounded-full text-[10px] font-black uppercase tracking-wider">Student Login</button>  
+    </div>  
+</nav>  
+
+<!-- Hero Section -->  
+<section class="pt-48 pb-24 px-6 hero-gradient text-center">  
+    <div class="max-w-5xl mx-auto">  
+        <div class="inline-flex items-center gap-3 bg-white/5 border border-white/10 px-6 py-3 rounded-full mb-10">  
+            <span class="w-2 h-2 bg-green-500 rounded-full animate-ping"></span>  
+            <span class="text-[10px] font-black uppercase tracking-[0.2em] text-slate-300">Live on Google Cloud Engine</span>  
+        </div>  
+        <h2 class="text-6xl md:text-9xl font-black mb-8 italic uppercase leading-[0.85] tracking-tighter">Seekho<br><span class="text-indigo-500">Kamao</span></h2>  
+        <p class="text-slate-400 text-sm md:text-xl max-w-2xl mx-auto mb-12">UPSC ki taiyari se lekar Stock Market aur Web Dev tak—Bharat ka sabse powerfull digital learning ecosystem.</p>  
+        <div class="flex flex-wrap justify-center gap-6">  
+            <a href="#packages" class="bg-indigo-600 px-10 py-5 rounded-2xl font-black text-[11px] uppercase tracking-widest hover:scale-105 transition-all">Get Started Free</a>  
+            <a href="#skills" class="glass px-10 py-5 rounded-2xl font-black text-[11px] uppercase tracking-widest border border-white/10 hover:bg-white/5 transition-all">Explore Skills</a>  
+        </div>  
+    </div>  
+</section>  
+
+<!-- Digital Skills Hub -->  
+<section id="skills" class="py-24 px-6">  
+    <div class="max-w-7xl mx-auto">  
+        <div class="text-center mb-20">  
+            <h3 class="text-4xl font-black italic uppercase">The <span class="text-indigo-500 text-glow">Skill Hub</span></h3>  
+            <p class="text-[10px] text-slate-500 uppercase font-black tracking-[0.4em] mt-3">Advanced Industry-Leading Courses</p>  
+        </div>  
+          
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">  
+            <!-- Row 1 -->  
+            <div class="skill-node" style="border-color: #34a853;">  
+                <h4 class="text-sm font-black uppercase text-white mb-2 flex items-center gap-3">  
+                    <i class="fas fa-chart-line text-emerald-500"></i> Stock Market  
+                </h4>  
+                <p class="text-[10px] text-slate-500 uppercase font-bold">Trading, Investing & Wealth Creation</p>  
+            </div>  
+            <div class="skill-node" style="border-color: #4285f4;">  
+                <h4 class="text-sm font-black uppercase text-white mb-2 flex items-center gap-3">  
+                    <i class="fas fa-code text-blue-500"></i> Web Development  
+                </h4>  
+                <p class="text-[10px] text-slate-500 uppercase font-bold">Frontend, Backend & Portfolio Building</p>  
+            </div>  
+            <div class="skill-node" style="border-color: #fbbc05;">  
+                <h4 class="text-sm font-black uppercase text-white mb-2 flex items-center gap-3">  
+                    <i class="fas fa-dollar-sign text-amber-500"></i> Freelancing  
+                </h4>  
+                <p class="text-[10px] text-slate-500 uppercase font-bold">International Clients & Fiverr Mastery</p>  
+            </div>  
+            <!-- Row 2 -->  
+            <div class="skill-node" style="border-color: #a855f7;">  
+                <h4 class="text-sm font-black uppercase text-white mb-2 flex items-center gap-3">  
+                    <i class="fas fa-brain text-purple-500"></i> Google Gemini AI  
+                </h4>  
+                <p class="text-[10px] text-slate-500 uppercase font-bold">AI Prompt Engineering & Automation</p>  
+            </div>  
+            <div class="skill-node" style="border-color: #ea4335;">  
+                <h4 class="text-sm font-black uppercase text-white mb-2 flex items-center gap-3">  
+                    <i class="fas fa-video text-red-500"></i> Video Editing  
+                </h4>  
+                <p class="text-[10px] text-slate-500 uppercase font-bold">Professional Reels & YouTube Post-Prod</p>  
+            </div>  
+            <div class="skill-node" style="border-color: #00d2ff;">  
+                <h4 class="text-sm font-black uppercase text-white mb-2 flex items-center gap-3">  
+                    <i class="fas fa-pen-nib text-cyan-400"></i> Graphic Design  
+                </h4>  
+                <p class="text-[10px] text-slate-500 uppercase font-bold">Canva Pro & Visual Branding</p>  
+            </div>  
+        </div>  
+    </div>  
+</section>  
+
+<!-- AI Income Predictor -->  
+<section class="py-24 px-6 bg-indigo-600/5">  
+    <div class="max-w-4xl mx-auto bank-card p-12 text-center border-indigo-500/20 ai-glow">  
+        <h3 class="text-3xl font-black italic uppercase italic"><span class="gemini-badge">Gemini</span> Income Predictor</h3>  
+        <p class="text-[11px] text-slate-500 uppercase font-black tracking-widest mt-4 mb-10">AI Analysis of your Skill-based Potential</p>  
+        <div class="grid grid-cols-2 md:grid-cols-3 gap-8">  
+            <div class="p-6 bg-white/5 rounded-3xl border border-white/5">  
+                <p class="text-[9px] text-slate-500 uppercase mb-2">Student Average</p>  
+                <h5 class="text-2xl font-black text-white italic">₹15k</h5>  
+            </div>  
+            <div class="p-6 bg-indigo-500/10 rounded-3xl border border-indigo-500/20">  
+                <p class="text-[9px] text-indigo-400 uppercase mb-2">Skill Master</p>  
+                <h5 class="text-2xl font-black text-indigo-400 italic">₹45k</h5>  
+            </div>  
+            <div class="p-6 bg-amber-500/10 rounded-3xl border border-amber-500/20 col-span-2 md:col-span-1">  
+                <p class="text-[9px] text-amber-500 uppercase mb-2">Legend Partner</p>  
+                <h5 class="text-2xl font-black text-amber-500 italic">₹1Lakh+</h5>  
+            </div>  
+        </div>  
+    </div>  
+</section>  
+
+<!-- Packages Section -->  
+<section id="packages" class="py-24 px-6">  
+    <div class="max-w-7xl mx-auto">  
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-10">  
+            <!-- Silver -->  
+            <div class="course-card p-10 flex flex-col items-center text-center">  
+                <span class="text-[10px] font-black text-indigo-400 bg-indigo-500/10 px-4 py-2 rounded-full uppercase mb-6">Silver Elite</span>  
+                <h4 class="text-4xl font-black mb-2">₹199</h4>  
+                <p class="text-[10px] text-slate-500 uppercase font-bold mb-8 tracking-widest leading-loose">Affiliate Basics + Canva + Video Editing Intro</p>  
+                <button class="mt-auto w-full py-4 bg-white text-black text-[10px] font-black rounded-2xl uppercase tracking-widest hover:bg-slate-200 transition-all">Buy Now</button>  
+            </div>  
+            <!-- Gold (Featured) -->  
+            <div class="course-card p-10 flex flex-col items-center text-center border-indigo-500 bg-indigo-500/5 relative overflow-hidden">  
+                <div class="absolute top-5 -right-12 bg-indigo-600 text-white py-1 px-14 rotate-45 text-[8px] font-black uppercase tracking-widest">Most Wanted</div>  
+                <span class="text-[10px] font-black text-white bg-indigo-600 px-4 py-2 rounded-full uppercase mb-6">Gold Master</span>  
+                <h4 class="text-4xl font-black mb-2">₹599</h4>  
+                <p class="text-[10px] text-slate-400 uppercase font-bold mb-8 tracking-widest leading-loose italic">All Silver + Stock Market + Web Dev + Freelancing</p>  
+                <button class="mt-auto w-full py-4 bg-indigo-600 text-white text-[10px] font-black rounded-2xl uppercase tracking-widest shadow-xl shadow-indigo-600/20 transition-all">Claim Access</button>  
+            </div>  
+            <!-- Legend -->  
+            <div class="course-card p-10 flex flex-col items-center text-center border-amber-500/20">  
+                <span class="text-[10px] font-black text-amber-500 bg-amber-500/10 px-4 py-2 rounded-full uppercase mb-6">Legend Partner</span>  
+                <h4 class="text-4xl font-black mb-2 text-amber-500">₹9,999</h4>  
+                <p class="text-[10px] text-slate-500 uppercase font-bold mb-8 tracking-widest leading-loose">Business Franchise + Personal Mentorship + Fixed ROI</p>  
+                <button class="mt-auto w-full py-4 bg-amber-500 text-black text-[10px] font-black rounded-2xl uppercase tracking-widest hover:bg-amber-400 transition-all">VIP Join</button>  
+            </div>  
+        </div>  
+    </div>  
+</section>  
+
+<!-- Bank Details -->  
+<section id="payment" class="py-24 px-6">  
+    <div class="max-w-4xl mx-auto bank-card p-12 relative overflow-hidden">  
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">  
+            <div>  
+                <h3 class="text-3xl font-black italic uppercase mb-8">Official <span class="text-indigo-500">Payment</span></h3>  
+                <div class="space-y-4 text-[11px] text-slate-400 font-bold uppercase">  
+                    <div class="flex justify-between border-b border-white/5 pb-2"><span>A/C Name:</span> <span class="text-white">RECHINDIA DIGITAL</span></div>  
+                    <div class="flex justify-between border-b border-white/5 pb-2"><span>Bank:</span> <span class="text-white">STATE BANK OF INDIA</span></div>  
+                    <div class="flex justify-between border-b border-white/5 pb-2"><span>UPI:</span> <span class="text-indigo-400">rechindia@upi</span></div>  
+                </div>  
+            </div>  
+            <div class="text-center">  
+                <div class="bg-white p-4 rounded-3xl inline-block shadow-2xl">  
+                    <i class="fas fa-qrcode text-black text-8xl"></i>  
+                </div>  
+                <p class="text-[10px] font-black text-indigo-400 mt-4 tracking-[0.2em] uppercase">Scan & Send Screenshot</p>  
+            </div>  
+        </div>  
+    </div>  
+</section>  
+
+<!-- Footer -->  
+<footer class="py-16 text-center border-t border-white/5">  
+    <div class="flex justify-center items-center gap-3 mb-6 opacity-30 grayscale">  
+        <i class="fab fa-google text-2xl"></i>  
+        <i class="fab fa-aws text-2xl"></i>  
+        <i class="fab fa-digital-ocean text-2xl"></i>  
+    </div>  
+    <div class="text-2xl font-black italic uppercase mb-4 tracking-tighter">RECH<span class="text-indigo-500">INDIA</span></div>  
+    <p class="text-[10px] font-bold text-slate-700 uppercase tracking-[0.4em]">Propelling Bharat's Digital Future | Satyam Sir Vision</p>  
